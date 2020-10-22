@@ -16,13 +16,14 @@ https://docs.docker.com/compose/install/
 2. go to: http://localhost:3000
 
 ###login options:  
-        email : "JohnDoe@gmail.com"  
-        password:"paSSw0rd"  
-        role : "Sales"  
 
-        email : "JaneDoe@gmail.com"  
-        password:"paSSw0rd"  
-        role : "Logistic"  
+- Sales user:  
+    email : "JohnDoe@gmail.com"  
+    password:"paSSw0rd"  
+    
+- Logistic user:  
+    email : "JaneDoe@gmail.com"  
+    password:"paSSw0rd"  
         
 ###notes:
 - the env is uploaded for test purposes only
