@@ -15,7 +15,7 @@ https://docs.docker.com/compose/install/
 1. run docker-compose up 
 2. go to: http://localhost:3000
 
-###login options:
+###login options:  
         email : "JohnDoe@gmail.com"  
         password:"paSSw0rd"  
         role : "Sales"  
