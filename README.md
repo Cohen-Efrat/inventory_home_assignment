@@ -9,20 +9,20 @@
     ubuntu:
     https://docs.docker.com/engine/install/ubuntu/
 
-- docker-compose 1.2.5+
+- docker-compose 1.2.5+  
 https://docs.docker.com/compose/install/
 
 1. run docker-compose up 
 2. go to: http://localhost:3000
 
 ###login options:
-        email : "JohnDoe@gmail.com"
-        password:"paSSw0rd"
-        role : "Sales"
+        email : "JohnDoe@gmail.com"  
+        password:"paSSw0rd"  
+        role : "Sales"  
 
-        email : "JaneDoe@gmail.com"
-        password:"paSSw0rd"
-        role : "Logistic"
+        email : "JaneDoe@gmail.com"  
+        password:"paSSw0rd"  
+        role : "Logistic"  
         
 ###notes:
 - the env is uploaded for test purposes only
